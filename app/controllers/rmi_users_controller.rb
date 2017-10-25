@@ -1,0 +1,2 @@
+class RmiUsersController < ApplicationController
+end
